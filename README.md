@@ -3,6 +3,6 @@
 ![counter](https://enbdwunulgqmxiu.m.pipedream.net)
 
 
-# Blog posts (Latest 5)
+# Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
