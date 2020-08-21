@@ -5,5 +5,5 @@
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello world!](https://www.mechawrench.com/posts/my-first-post/)
+- [SerialPort with Electron running VueJS!](https://www.mechawrench.com/posts/electron-vue-serialport-implementation/)
 <!-- BLOG-POST-LIST:END -->
